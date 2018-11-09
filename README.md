@@ -1,2 +1,3 @@
 # hello-world
-first steps repository
+It's readme file
+the chapter begins... 
